@@ -1,4 +1,4 @@
-# How to add the website
+# How to edit the website
 
 ## Prerequesites
 
@@ -22,4 +22,4 @@ Commit and push the updated files to the master branch and the site should autom
 ## More info
 
 - The site uses a template in `template\README.template.md` to generate. Edit that template to change the look of the site
-- You can edit the `README.md` manually if you don't want to mess with python
+- You can edit the `README.md` manually if you don't want to mess with Python
