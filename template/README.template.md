@@ -2,7 +2,7 @@
 ### {{book.title}} 
 ![Image]({{book.image}})
 
-Download: [EPUB]({{book.epuburl}}) [PDF]({{book.pdfurl}})
+**Download:** [EPUB]({{book.epuburl}}) [PDF]({{book.pdfurl}})
 
 ---
 
