@@ -5,6 +5,7 @@ the appropiate markdown
 """
 import os
 import re
+import sys
 import xml.etree.ElementTree as ET
 from liquid import Liquid
 from urllib.parse import quote
@@ -12,7 +13,7 @@ from urllib.parse import quote
 __license__ = "MIT"
 
 rootdir = 'ebooks'
-extensions = ('.opf')
+extensions = ('.pdf')
 
 def main():
     print(os.getcwd())
@@ -24,10 +25,10 @@ def main():
                 continue
             ext = os.path.splitext(file)[-1].lower()
             if ext in extensions:
-                title = get_book_title("ebooks/" + file)
-                pdfurl = "ebooks/" + quote(os.path.basename(file) + ".pdf", safe='')
-                epuburl = "ebooks/" + quote(os.path.basename(file) + ".epub", safe='')
-                imageurl = "ebooks/" + quote(os.path.basename(file) + ".jpg", safe='')
+                title = get_book_title("ebooks/" + os.path.splitext(os.path.basename(file))[0] + ".opf")
+                pdfurl = "ebooks/" + quote(os.path.splitext(os.path.basename(file))[0] + ".pdf", safe='')
+                epuburl = "ebooks/" + quote(os.path.splitext(os.path.basename(file))[0] + ".epub", safe='')
+                imageurl = "ebooks/" + quote(os.path.splitext(os.path.basename(file))[0] + ".jpg", safe='')
                 books.append({
                     "title": title,
                     "image": imageurl,
@@ -37,10 +38,16 @@ def main():
     render_md(books)
 
 def get_book_title(xml_path):
-    print("reading: " +xml_path)
-    tree = ET.parse(xml_path)
-    root = tree.getroot()
-    return root.findall(".//{http://purl.org/dc/elements/1.1/}title")[0].text
+    print("reading: " + xml_path)
+    title = ""
+    try:
+        tree = ET.parse(xml_path)
+        root = tree.getroot()
+        title = root.findall(".//{http://purl.org/dc/elements/1.1/}title")[0].text
+    except Exception as e:
+        print("WARNING Could not find .opf file -- " + str(e))
+        title = os.path.basename(xml_path)
+    return title
 
 
 def render_md(books):
