@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f1761bb-1418-4aa9-bbf2-2f3d21802251</dc:identifier>
+        <dc:title>Malcolm X</dc:title>
+        <dc:creator opf:file-as="Bullet, The Ballot or the" opf:role="aut">The Ballot or the Bullet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;The Ballot or the Bullet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:38.332226+00:00" name="calibre:timestamp"/>
+        <meta content="Malcolm X" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Malcolm X - The Ballot or the Bullet.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

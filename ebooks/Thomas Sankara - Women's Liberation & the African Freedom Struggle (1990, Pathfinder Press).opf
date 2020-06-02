@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b352da12-89eb-4c7f-9fe9-56f5094b7c31</dc:identifier>
+        <dc:title>Thomas Sankara</dc:title>
+        <dc:creator opf:file-as="Liberation, Women’s &amp; Struggle, the African Freedom" opf:role="aut">Women’s Liberation</dc:creator>
+        <dc:creator opf:file-as="Liberation, Women’s &amp; Struggle, the African Freedom" opf:role="aut">the African Freedom Struggle (1990, Pathfinder Press)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-02T19:28:04+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Women’s Liberation&quot;: &quot;&quot;, &quot;the African Freedom Struggle (1990, Pathfinder Press)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:37.460890+00:00" name="calibre:timestamp"/>
+        <meta content="Thomas Sankara" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Thomas Sankara - Women's Liberation &amp; the African Freedom Struggle (1990, Pathfinder Press).jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

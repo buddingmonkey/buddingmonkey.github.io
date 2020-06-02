@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ead1bea-8df6-433f-b82f-7de50b6b9a57</dc:identifier>
+        <dc:title>Cesaire Discourse(1)</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-03T06:56:27+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:36.106898+00:00" name="calibre:timestamp"/>
+        <meta content="Cesaire Discourse(1)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Cesaire Discourse(1) - Unknown.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

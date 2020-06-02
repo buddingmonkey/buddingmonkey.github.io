@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4e50d88-07e4-47ec-b7ea-c8727d484960</dc:identifier>
+        <dc:title>Black Power: Politics of Liberation in America</dc:title>
+        <dc:creator opf:file-as="Hamilton, Charles" opf:role="aut">Charles Hamilton</dc:creator>
+        <dc:creator opf:file-as="Hamilton, Charles" opf:role="aut">Kwame Ture</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-01T07:00:00+00:00</dc:date>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004QZA7ZI</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307795274</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Charles Hamilton&quot;: &quot;&quot;, &quot;Kwame Ture&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:35.827919+00:00" name="calibre:timestamp"/>
+        <meta content="Black Power: Politics of Liberation in America" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Black Power_ Politics of Liberation in America - Charles Hamilton &amp; Kwame Ture.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

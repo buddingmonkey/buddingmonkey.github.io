@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e1a4ae0-cc31-462d-a191-8c308bf6a5e8</dc:identifier>
+        <dc:title>Racism After Apartheid: Challenges for Marxism and Anti-Racism</dc:title>
+        <dc:creator opf:file-as="Satgar, Vishwas" opf:role="aut">Vishwas Satgar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-02T07:48:56+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Vishwas Satgar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:39.880492+00:00" name="calibre:timestamp"/>
+        <meta content="Racism After Apartheid: Challenges for Marxism and Anti-Racism" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Racism After Apartheid_ Challenges for Marxism and Anti-Racism - Vishwas Satgar.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

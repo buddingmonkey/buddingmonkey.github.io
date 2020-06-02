@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae7e184f-7a67-4e52-8b7f-c6c3fc32d1e9</dc:identifier>
+        <dc:title>Mallory</dc:title>
+        <dc:creator opf:file-as="Dogs, Of &amp; 1962, Men" opf:role="aut">Of Dogs</dc:creator>
+        <dc:creator opf:file-as="Dogs, Of &amp; 1962, Men" opf:role="aut">Men 1962</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Of Dogs&quot;: &quot;&quot;, &quot;Men 1962&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:35.204546+00:00" name="calibre:timestamp"/>
+        <meta content="Mallory" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mallory - Of Dogs &amp; Men 1962.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

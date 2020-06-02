@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5c8f153-e22c-4ac3-9f6b-8d570bc6a76e</dc:identifier>
+        <dc:title>Munoz+-+Disidentifications+preface+and+Intro.pdf</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:35.453111+00:00" name="calibre:timestamp"/>
+        <meta content="Munoz+-+Disidentifications+preface+and+Intro.pdf" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Munoz_-_Disidentifications_preface_and_Intro.pdf - Unknown.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

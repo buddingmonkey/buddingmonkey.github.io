@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ccb0154-3e3b-4f2c-bd1e-9b5a1350f662</dc:identifier>
+        <dc:title>Unsettling the Coloniality of Being/Power/Truth/Freedom: Towards the Human, After Man, Its Overrepresentation--An Argument</dc:title>
+        <dc:creator opf:file-as="Wynter, Sylvia" opf:role="aut">Sylvia Wynter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-27T15:49:32+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Sylvia Wynter&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:39.840715+00:00" name="calibre:timestamp"/>
+        <meta content="Unsettling the Coloniality of Being/Power/Truth/Freedom: Towards the Human, After Man, Its Overrepresentation--An Argument" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Unsettling the Coloniality of Being_Power_Truth_Freedom_ Toward After Man, Its Overrepresentation--An Argument - Sylvia Wynter.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

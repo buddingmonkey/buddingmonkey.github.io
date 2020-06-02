@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5690abc7-e65d-42fa-9c25-9ebcf686ff70</dc:identifier>
+        <dc:title>Microsoft Word - Dutchman.doc</dc:title>
+        <dc:creator opf:file-as="Brucker, Carl" opf:role="aut">Carl Brucker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Carl Brucker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:40.127182+00:00" name="calibre:timestamp"/>
+        <meta content="Microsoft Word - Dutchman.doc" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Microsoft Word - Dutchman.doc - Carl Brucker.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

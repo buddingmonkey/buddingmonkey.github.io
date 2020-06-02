@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb3c214a-38a9-4223-ae77-8d59ad005201</dc:identifier>
+        <dc:title>(Contemporary Black History) Robbie Lieberman, Clarence Lang (eds.)</dc:title>
+        <dc:creator opf:file-as="Anticommunism &amp; US, the African American Freedom Movement “Another Side of the Story”-Palgrave Macmillan" opf:role="aut">Anticommunism</dc:creator>
+        <dc:creator opf:file-as="Anticommunism &amp; US, the African American Freedom Movement “Another Side of the Story”-Palgrave Macmillan" opf:role="aut">the African American Freedom Movement “Another Side of the Story”-Palgrave Macmillan US (2009)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-30T18:22:44+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;the African American Freedom Movement “Another Side of the Story”-Palgrave Macmillan US (2009)&quot;: &quot;&quot;, &quot;Anticommunism&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-02T18:17:39.174361+00:00" name="calibre:timestamp"/>
+        <meta content="(Contemporary Black History) Robbie Lieberman, Clarence Lang (eds.)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="(Contemporary Black History) Robbie Lieberman, Clarence Lang (evement _Another Side of the Story_-Palgrave Macmillan US (2009).jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
