@@ -15,8 +15,11 @@ __license__ = "MIT"
 rootdir = 'ebooks'
 extensions = ('.pdf')
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
 def main():
-    print(os.getcwd())
+    os.chdir(dir_path)
+    os.chdir("..")
     books = []
 
     for subdir, dirs, files in os.walk(rootdir):
