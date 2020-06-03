@@ -6,6 +6,4 @@
 
 ---
 
-{% else %}
-No content found. Place PDFs EPUBs in ebooks folder.
 {% endfor %}
